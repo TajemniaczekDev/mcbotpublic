@@ -1,0 +1,66 @@
+{
+    "Bot": {
+        "Token" : "ODQ5MjQxNzc0NTU5MDY4MTkw.YLYUCQ.dkDAb_pY90F8TR7D0PcgIN30pEM",
+        "GuildID" : "809360026070024203",
+        "Prefix" : "%",
+        "Licencja" : "CScript-ijel8ZqqeDLI3DK",
+        "Lang" : "pl_PL",
+        "IP" : "pl.waw.node1.avhost.pl",
+        "PORT" : "34033",
+        "StatusRefresh" : "60000"
+    },
+    "Status": {
+        "1": {
+            "Status" : "BlueCraftPL",
+            "Type" : "PLAYING"
+        },
+        "2": {
+            "Status" : "Zaprasza",
+            "Type" : "WATCHING"
+        },
+        "3": {
+            "Status" : "Wbij już teraz ",
+            "Type" : "PLAYING"
+        },
+        "4": {
+            "Status" : "Start W tym Tygodniu ",
+            "Type" : "STREAMING"
+        }
+    },
+    "DiscordStats": {
+        "on" : true,
+        "ChannelID" : "849248203055824916",
+        "ChannelName" : "📜┃status: {ALL}"
+    },
+    "MCServerInfo": {
+        "on" : true,
+        "ChannelID" : "79141266150",
+        "ChannelName" : "🔥┃bluecraftpl: {ONLINE}/{MAX}"
+    },
+    "JoinLeave": {
+        "on" : true,
+        "embed" : true,
+        "Join": {
+            "ChannelID" : "844137899032969236",
+            "Text" : "Witam cię <@{NAME}> na BlueCraftPL! Mamy nadzieje że zostaniesz z nami na długo"
+        },
+        "Leave": {
+            "ChannelID" : "844137899032969236",
+            "Text" : "Szkoda że odeszłeś <@{NAME}> :("
+        }
+    },
+    "Idears": {
+        "on" : true,
+        "channelid" : "79141266150",
+        "Modes" : false,
+        "List" : [
+                 "Survival" 
+                 
+        ],
+        "embed" : true,
+        "reakctions" : {
+            "yes" : "✅",
+            "no" : "❌"
+        }
+    }
+}
