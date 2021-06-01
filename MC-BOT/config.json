@@ -1,12 +1,12 @@
 {
     "Bot": {
-        "Token" : "ODQ5MjQxNzc0NTU5MDY4MTkw.YLYUCQ.dkDAb_pY90F8TR7D0PcgIN30pEM",
-        "GuildID" : "809360026070024203",
+        "Token" : "Token",
+        "GuildID" : "",
         "Prefix" : "%",
-        "Licencja" : "CScript-ijel8ZqqeDLI3DK",
+        "Licencja" : "",
         "Lang" : "pl_PL",
-        "IP" : "pl.waw.node1.avhost.pl",
-        "PORT" : "34033",
+        "IP" : "",
+        "PORT" : "",
         "StatusRefresh" : "60000"
     },
     "Status": {
